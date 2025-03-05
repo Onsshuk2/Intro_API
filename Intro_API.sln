@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro_API", "Intro_API\Intro_API.csproj", "{F8B8599A-4D89-43B6-9D4A-7CAF66587A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro_API.BLL", "Intro_API.BLL\Intro_API.BLL.csproj", "{D491D713-1CDF-4DCA-AFDB-D2A2B350A3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro_API.DAL", "Intro_API.DAL\Intro_API.DAL.csproj", "{34DF3D97-E1C7-4EBC-B64B-7827711C370C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B8599A-4D89-43B6-9D4A-7CAF66587A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B8599A-4D89-43B6-9D4A-7CAF66587A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B8599A-4D89-43B6-9D4A-7CAF66587A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B8599A-4D89-43B6-9D4A-7CAF66587A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D491D713-1CDF-4DCA-AFDB-D2A2B350A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D491D713-1CDF-4DCA-AFDB-D2A2B350A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D491D713-1CDF-4DCA-AFDB-D2A2B350A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D491D713-1CDF-4DCA-AFDB-D2A2B350A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DF3D97-E1C7-4EBC-B64B-7827711C370C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DF3D97-E1C7-4EBC-B64B-7827711C370C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DF3D97-E1C7-4EBC-B64B-7827711C370C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DF3D97-E1C7-4EBC-B64B-7827711C370C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8D605C-A7F8-4191-A01A-CBAAE0F7E35A}
+	EndGlobalSection
+EndGlobal
