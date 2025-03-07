@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Services\Intro_API.BLL.csproj" />
+  </ItemGroup>
+
 </Project>
